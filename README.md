@@ -15,6 +15,8 @@ Each element of the matrix can be any native C++ type (such as int and float). S
 
 Some examples of the usage  of the library is given below, however for most of the operations not shown here, kindly refer directly to the code as I currently do not have the time to document everything thoroughly.
 
+https://kyaw.xyz/2017/12/18/standalone-portable-cpp11-matrix-library
+
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
